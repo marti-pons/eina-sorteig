@@ -31,4 +31,4 @@ El botó «Carrega l'exemple de la Cursa de Quintos» omple una configuració de
 
 ## Llicència
 
-Per definir.
+[MIT](LICENSE).
